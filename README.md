@@ -88,5 +88,5 @@ The model analyzes textual data such as job descriptions, requirements, and comp
 
 #### Step 1: Clone Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/fake-job-detection.git
+git clone https://github.com/lakshmi-bhuvana/fake-job-detection.git
 cd fake-job-detection
